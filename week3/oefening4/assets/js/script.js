@@ -1,0 +1,8 @@
+
+let schaakbordTekenen = function(){
+
+    
+}
+
+
+schaakbordTekenen();
